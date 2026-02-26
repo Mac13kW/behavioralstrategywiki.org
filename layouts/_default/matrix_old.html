@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+
+<h2>Literature Matrix</h2>
+
+<div class="matrix-container">
+  <table class="matrix-table">
+    <thead>
+      <tr>
+        <th style="border: none; background: transparent;"></th>
+        <th colspan="13" class="concepts-label">CONCEPTS</th>
+      </tr>
+      <tr>
+        <th class="phenomena-label-large">PHENOMENA</th>
+        {{ range .Site.Data.matrix.concepts }}
+        <th class="col-header">
+          <div class="header-wrapper">
+            <span>{{ . }}</span>
+          </div>
+        </th>
+        {{ end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $row := .Site.Data.matrix.phenomena }}
+      <tr>
+        <th class="row-header">{{ $row.name }}</th>
+        {{ range $cell := $row.cells }}
+        {{ $count := int $cell.count }}
+        <td class="cell-{{ $count }}">
+          {{ if gt $count 0 }}
+          <a href="/pdfs/{{ $cell.pdf }}" title="{{ $row.name }}">{{ $count }}</a>
+          {{ else }}
+          {{ $count }}
+          {{ end }}
+        </td>
+        {{ end }}
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<p style="margin-top: 1.5rem; color: var(--text-secondary); font-size: 0.85rem;">
+  Click on any number to see the list of papers at that intersection. Colors indicate the number of papers:
+  <span style="color: #2ecc71;">■</span> 1–5
+  <span style="color: #f1c40f;">■</span> 6–10
+  <span style="color: #e67e22;">■</span> 11–15
+  <span style="color: #e74c3c;">■</span> 16–20
+  <span style="color: #7b241c;">■</span> 21+
+</p>
+{{ end }}

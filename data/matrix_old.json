@@ -1,0 +1,1102 @@
+{
+  "concepts": [
+    "Aspiration Adjustment",
+    "Emotions",
+    "Fairness",
+    "Group Identity and Cohesion",
+    "Group Problem Solving",
+    "Heuristic Decision Making",
+    "Power, Status and Politics",
+    "Learning",
+    "Representations",
+    "Search",
+    "Social Interactions and Networks",
+    "Trust",
+    "Other"
+  ],
+  "phenomena": [
+    {
+      "name": "Alliance and Contracting",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc0i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc0i1.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc0i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc0i3.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc0i4.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc0i5.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc0i6.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc0i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc0i8.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc0i9.pdf"
+        },
+        {
+          "count": 9,
+          "pdf": "doc0i10.pdf"
+        },
+        {
+          "count": 8,
+          "pdf": "doc0i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc0i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "CSR",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc1i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i3.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc1i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i5.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc1i6.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i9.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc1i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc1i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Capacity Expansion",
+      "cells": [
+        {
+          "count": 2,
+          "pdf": "doc2i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i2.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc2i3.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i5.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc2i6.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc2i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i9.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc2i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc2i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Divestitures",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc3i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i2.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc3i3.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc3i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i5.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i6.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc3i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i9.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc3i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc3i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Global Strategy",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc4i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i1.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc4i2.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc4i3.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc4i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i5.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc4i6.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc4i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i9.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc4i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc4i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Incentives",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc5i0.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc5i1.pdf"
+        },
+        {
+          "count": 5,
+          "pdf": "doc5i2.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc5i3.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc5i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc5i5.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc5i6.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc5i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc5i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc5i9.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc5i10.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc5i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc5i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Innovation and Technological Change",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc6i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i3.pdf"
+        },
+        {
+          "count": 9,
+          "pdf": "doc6i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i5.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i6.pdf"
+        },
+        {
+          "count": 11,
+          "pdf": "doc6i7.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc6i8.pdf"
+        },
+        {
+          "count": 15,
+          "pdf": "doc6i9.pdf"
+        },
+        {
+          "count": 8,
+          "pdf": "doc6i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc6i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Interdivisional Relationships",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc7i0.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc7i1.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc7i2.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc7i3.pdf"
+        },
+        {
+          "count": 8,
+          "pdf": "doc7i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc7i5.pdf"
+        },
+        {
+          "count": 5,
+          "pdf": "doc7i6.pdf"
+        },
+        {
+          "count": 13,
+          "pdf": "doc7i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc7i8.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc7i9.pdf"
+        },
+        {
+          "count": 18,
+          "pdf": "doc7i10.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc7i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc7i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mergers and Acquisitions",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc8i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i2.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc8i3.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc8i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i5.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc8i6.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc8i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i9.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc8i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc8i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Organizational Change",
+      "cells": [
+        {
+          "count": 3,
+          "pdf": "doc9i0.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc9i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc9i2.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc9i3.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc9i4.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc9i5.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc9i6.pdf"
+        },
+        {
+          "count": 10,
+          "pdf": "doc9i7.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc9i8.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc9i9.pdf"
+        },
+        {
+          "count": 5,
+          "pdf": "doc9i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc9i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc9i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Organizational Culture",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc10i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc10i1.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc10i2.pdf"
+        },
+        {
+          "count": 8,
+          "pdf": "doc10i3.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc10i4.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc10i5.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc10i6.pdf"
+        },
+        {
+          "count": 10,
+          "pdf": "doc10i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc10i8.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc10i9.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc10i10.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc10i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc10i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Organizational Structures",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc11i0.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc11i1.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc11i2.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc11i3.pdf"
+        },
+        {
+          "count": 26,
+          "pdf": "doc11i4.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc11i5.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc11i6.pdf"
+        },
+        {
+          "count": 18,
+          "pdf": "doc11i7.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc11i8.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc11i9.pdf"
+        },
+        {
+          "count": 20,
+          "pdf": "doc11i10.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc11i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc11i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "R&D Investments",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc12i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i3.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i5.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc12i6.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc12i7.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i8.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc12i9.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc12i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Recruitment",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc13i0.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc13i1.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc13i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc13i3.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc13i4.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc13i5.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc13i6.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc13i7.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc13i8.pdf"
+        },
+        {
+          "count": 5,
+          "pdf": "doc13i9.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc13i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc13i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc13i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Resource Allocation",
+      "cells": [
+        {
+          "count": 3,
+          "pdf": "doc14i0.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc14i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc14i2.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc14i3.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc14i4.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc14i5.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc14i6.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc14i7.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc14i8.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc14i9.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc14i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc14i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc14i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Interaction, Competitive Strategy",
+      "cells": [
+        {
+          "count": 0,
+          "pdf": "doc15i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc15i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc15i2.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc15i3.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc15i4.pdf"
+        },
+        {
+          "count": 5,
+          "pdf": "doc15i5.pdf"
+        },
+        {
+          "count": 8,
+          "pdf": "doc15i6.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc15i7.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc15i8.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc15i9.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc15i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc15i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc15i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Strategy Making",
+      "cells": [
+        {
+          "count": 5,
+          "pdf": "doc16i0.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc16i1.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc16i2.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc16i3.pdf"
+        },
+        {
+          "count": 9,
+          "pdf": "doc16i4.pdf"
+        },
+        {
+          "count": 7,
+          "pdf": "doc16i5.pdf"
+        },
+        {
+          "count": 9,
+          "pdf": "doc16i6.pdf"
+        },
+        {
+          "count": 11,
+          "pdf": "doc16i7.pdf"
+        },
+        {
+          "count": 10,
+          "pdf": "doc16i8.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc16i9.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc16i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc16i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc16i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Top Management Teams",
+      "cells": [
+        {
+          "count": 1,
+          "pdf": "doc17i0.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc17i1.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc17i2.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc17i3.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc17i4.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc17i5.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc17i6.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc17i7.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc17i8.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc17i9.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc17i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc17i11.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc17i12.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "cells": [
+        {
+          "count": 4,
+          "pdf": "doc18i0.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc18i1.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc18i2.pdf"
+        },
+        {
+          "count": 1,
+          "pdf": "doc18i3.pdf"
+        },
+        {
+          "count": 4,
+          "pdf": "doc18i4.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc18i5.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc18i6.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc18i7.pdf"
+        },
+        {
+          "count": 3,
+          "pdf": "doc18i8.pdf"
+        },
+        {
+          "count": 6,
+          "pdf": "doc18i9.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc18i10.pdf"
+        },
+        {
+          "count": 0,
+          "pdf": "doc18i11.pdf"
+        },
+        {
+          "count": 2,
+          "pdf": "doc18i12.pdf"
+        }
+      ]
+    }
+  ]
+}

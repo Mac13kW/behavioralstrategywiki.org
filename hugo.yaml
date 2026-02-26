@@ -1,0 +1,27 @@
+baseURL: "https://www.behavioralstrategywiki.org/"
+languageCode: en-us
+title: "Behavioral Strategy Wiki"
+
+menu:
+  main:
+    - identifier: home
+      name: HOME
+      url: /
+      weight: 10
+    - identifier: matrix
+      name: LITERATURE MATRIX
+      url: /literature-matrix/
+      weight: 20
+    - identifier: media
+      name: MEDIA
+      url: /media/
+      weight: 30
+    - identifier: contribute
+      name: CONTRIBUTE
+      url: /contribute/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
