@@ -9,7 +9,7 @@ url: /contribute/
 
 We will collect your suggestions and select those that are particularly representative of a given concept or phenomena and had some impact on the field. Every three months we will update the literature matrix. With your help we hope to make this wiki a useful reference tool for the community.
 
-<form class="contact-form" action="https://submit-form.com/form_v1_ZMyxHwaIrjyN22FJ0X9n0NHo" method="POST">
+<form class="contact-form" action="https://submit-form.com/TgM50aOkN" method="POST">
   <label for="name">Name</label>
   <input type="text" id="name" name="name" required>
 
