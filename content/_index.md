@@ -14,7 +14,17 @@ title: "Behavioral Strategy Wiki"
 
 ---
 
-[![Literature Matrix](/images/matrix-preview.png)](/literature-matrix/)
+<div style="text-align: center;">
+  <a href="/literature-matrix/">
+    <!-- Try removing the relURL function for a second -->
+    <img src="/media/matrix_screenshot.png" 
+         alt="Literature Matrix" 
+         width="320" 
+         style="display: block; margin-left: auto; margin-right: auto;">
+  </a>
+</div>
+
+---
 
 This wiki page curates literature on behavioral strategy organized into a [matrix of Concepts × Phenomena](/literature-matrix/).
 
