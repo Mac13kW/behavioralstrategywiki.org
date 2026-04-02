@@ -10,7 +10,7 @@ title: "Behavioral Strategy Wiki"
 
 [2] Levinthal DA. 2011. A Behavioral Approach To Strategy — What's The Alternative? *Strategic Management Journal* 32: 1517-1523.
 
-[3] [https://strategicmanagement.net/ig/behavioral_strategy.php](https://strategicmanagement.net/ig/behavioral_strategy.php)
+[3] [Strategic Management Society - Behavioral Strategy IG](https://www.strategicmanagement.net/group/behavorial-strategy-interest-group/)
 
 ---
 

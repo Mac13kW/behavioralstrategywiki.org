@@ -5,7 +5,9 @@ url: /media/
 
 ## Foundations Series Interviews
 
-Foundations Series consists of video interviews where PhD students meet with accomplished scholars to talk about their ideas that shaped the field of knowledge and innovation research. Below is a selection of interviews from this series that are particularly relevant to the subject of behavioral strategy.
+Foundations Series consists of video interviews where PhD students meet with accomplished scholars to talk about their ideas that shaped the field of knowledge and innovation research. This series is an initiative of the Strategic Management Society's Knowledge & Innovation Interest Group.
+
+Below is a selection of interviews from this series that are particularly relevant to the subject of behavioral strategy.
 
 <div class="video-grid">
 
@@ -15,7 +17,7 @@ Foundations Series consists of video interviews where PhD students meet with acc
 </div>
 
 <div class="video-card">
-<h3>Interview with Jim March</h3>
+<h3>Interview with James G. March</h3>
 <iframe src="https://www.youtube.com/embed/PwgOiE4DAzA" allowfullscreen></iframe>
 </div>
 
